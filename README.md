@@ -14,4 +14,4 @@
 <img src="https://i.imgur.com/28HC6c6.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+My biggest challenge came from properly configuring the grid view to display 3 movies in a row
